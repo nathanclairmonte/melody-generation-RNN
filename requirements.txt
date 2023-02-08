@@ -1,0 +1,6 @@
+glob
+numpy
+matplotlib
+music21
+keras
+pytz
