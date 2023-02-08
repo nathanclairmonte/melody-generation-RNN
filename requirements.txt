@@ -1,4 +1,3 @@
-glob
 numpy
 matplotlib
 music21
